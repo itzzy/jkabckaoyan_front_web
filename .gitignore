@@ -1,6 +1,7 @@
 dist/
 node_modules/
 src/.umi/.cache/*
+src/.umi-production/*
 
 # Dependencies
 node_modules/
